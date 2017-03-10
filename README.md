@@ -2,3 +2,5 @@
 Lasagna db
 
 ![Lasagna](logo.png)
+
+## Requirements
